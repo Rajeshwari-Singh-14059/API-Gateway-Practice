@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/paymentservice/paymentservice/src/main/main.iml" filepath="$PROJECT_DIR$/paymentservice/paymentservice/src/main/main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/apigatewayservice/apigatewayservice/src/test/test.iml" filepath="$PROJECT_DIR$/apigatewayservice/apigatewayservice/src/test/test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/orderservice/orderservice/src/test/test2.iml" filepath="$PROJECT_DIR$/orderservice/orderservice/src/test/test2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka/eureka/src/test/test3.iml" filepath="$PROJECT_DIR$/eureka/eureka/src/test/test3.iml" />
+    </modules>
+  </component>
+</project>
